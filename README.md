@@ -15,6 +15,7 @@ Thank you to the instructor/course developers and to Udemy.
 
 |  #  | Project                       |                                           Repo                                           |
 | :-: | :---------------------------- | :--------------------------------------------------------------------------------------: |
+| 00  | Project Starter Boiler Plate  |        [Repo](https://github.com/AJFree458/50_Projects/tree/main/project-starter)        |
 | 01  | Expanding Cards               |        [Repo](https://github.com/AJFree458/50_Projects/tree/main/Expanding_Cards)        |
 | 02  | Progress Steps                |        [Repo](https://github.com/AJFree458/50_Projects/tree/main/Progress_Steps)         |
 | 03  | Rotating Navigation Animation | [Repo](https://github.com/AJFree458/50_Projects/tree/main/Rotating_Navigation_Animation) |
